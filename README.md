@@ -1,11 +1,11 @@
 ## Oi,eu usou Igor Alex de Castro!!! 👋
-- 🕹️ Estudante de Engenharia de Computação.
-- ❤️ Aprendendo Front-end.
+- 🕹️ Atualmente cursando engenharia da computação na UNISAL.
+- ❤️ Estudando e aprofundando no desenvolvimento Front-end.
 
 <div>
   <a href="https://github.com/Igor-Alex-Castro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Igor-Alex-Castro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Alex-Castro&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Igor-Alex-Castro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Alex-Castro&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ##
