@@ -1,4 +1,4 @@
-## Oi,eu sou Igor Alex de Castro!!! 👋
+## Oi, eu sou Igor Alex de Castro!!! 👋
 - 🕹️ Atualmente estou cursando engenharia da computação na UNISAL.
 - ❤️ Estudando e aprofundando no desenvolvimento Front-end.
 
