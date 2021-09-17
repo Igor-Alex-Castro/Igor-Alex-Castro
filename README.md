@@ -1,5 +1,5 @@
-## Oi,eu usou Igor Alex de Castro!!! 👋
-- 🕹️ Atualmente cursando engenharia da computação na UNISAL.
+## Oi,eu sou Igor Alex de Castro!!! 👋
+- 🕹️ Atualmente estou cursando engenharia da computação na UNISAL.
 - ❤️ Estudando e aprofundando no desenvolvimento Front-end.
 
 <div>
