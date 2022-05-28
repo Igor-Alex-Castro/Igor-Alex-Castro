@@ -29,4 +29,17 @@
   
  
 </div>
+  <h3 align="left">Projetos</h3>
+<table>
   
+  <tr>
+     <td valign="top">
+      <h3 align="left">Trybe Tunes</h3>
+      <p><a href="https://igor-alex-castro.github.io/projeto-trybetunes/">GitHub Page</a>, <a href="https://github.com/Igor-Alex-Castro/projeto-trybetunes">Reposirotio</a></p>
+       <p>React, Redux, Jest and RTL</p>
+      <a href="https://igor-alex-castro.github.io/projeto-trybetunes/"><img width=400px src="./images/tela-de-login.png" alt="Visualização do prejeto" /></a>
+    </td>   
+  </tr>
+
+  
+</table>
