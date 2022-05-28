@@ -37,7 +37,7 @@
       <h3 align="left">Trybe Tunes</h3>
       <p><a href="https://igor-alex-castro.github.io/projeto-trybetunes/">GitHub Page</a>, <a href="https://github.com/Igor-Alex-Castro/projeto-trybetunes">Reposirotio</a></p>
        <p>React, Redux, Jest and RTL</p>
-      <a href="https://igor-alex-castro.github.io/projeto-trybetunes/"><img width=400px src="./imagens/tela-de-login.png" alt="Visualização do prejeto" /></a>
+      <a href="https://igor-alex-castro.github.io/projeto-trybetunes/"><img width=200px src="./imagens/tela-de-login.png" alt="Visualização do prejeto" /></a>
     </td>   
   </tr>
 
