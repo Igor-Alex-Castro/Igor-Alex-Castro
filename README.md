@@ -38,7 +38,7 @@
       <p><a href="https://igor-alex-castro.github.io/projeto-trybetunes/">GitHub Page</a>, <a href="https://github.com/Igor-Alex-Castro/projeto-trybetunes">Reposirotio</a></p>
        <p>React, Redux, Jest and RTL</p>
       <a href="https://igor-alex-castro.github.io/projeto-trybetunes/"><img width=200px src="./imagens/tela-de-login.png" alt="Visualização do prejeto" /></a>
-       <video width="320" height="240" controls>
+       <video width="200px" height="240px" controls>
           <source src="./imagens/trybetunes.mp4" type="video/mp4">
             Seu browser não suporta a tag video.
         </video>
