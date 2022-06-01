@@ -41,7 +41,8 @@
         
     </td>   
   </tr>
-   <video align="" src="./imagens/trybetunes.mp4"></video>
+ 
 
   
 </table>
+  <video align="" src="./imagens/trybetunes.mp4"></video>
