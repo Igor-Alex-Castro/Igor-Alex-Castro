@@ -40,9 +40,6 @@
       <a href="https://igor-alex-castro.github.io/projeto-trybetunes/"><img width=200px src="./imagens/tela-de-login.png" alt="Visualização do prejeto" /></a>
         
     </td>   
-  </tr>
- 
-
-  
+  </tr>  
 </table>
-  <video align="" src="./imagens/trybetunes.mp4"></video>
+ 
