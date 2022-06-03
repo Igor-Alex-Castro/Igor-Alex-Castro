@@ -50,7 +50,7 @@
         <p><a href="">Vídeo do projeto</a></p>
       <p>React with Redux, thunk,</br>
           Jest and RTL</p>
-        <a href="https://igor-alex-castro.github.io/projeto-trybe-wallet/"><img width=250px src="./imagens/foto-projeto-wallet.png" alt="Visualização do prejeto" /></a>
+        <a href="https://igor-alex-castro.github.io/projeto-trybe-wallet/"><img width=220px src="./imagens/foto-projeto-wallet.png" alt="Visualização do prejeto" /></a>
       </td>  
   </tr>  
 </table>
