@@ -15,7 +15,10 @@
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
+<img align="center" alt="Igor-ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+ <img align="center" alt="Igor-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="Igor-RTL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="Igor-RTL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
 ##
@@ -38,15 +41,16 @@
         <p><a href="https://igor-alex-castro.github.io/projeto-trybetunes/">GitHub Page</a>, <a href="https://github.com/Igor-Alex-Castro/projeto-trybetunes">Reposirotio</a></p>
         <p><a href="https://www.youtube.com/watch?v=0IP06bzmUB8">Vídeo do projeto</a></p>
         <p>React, Jest and RTL</p>
+       <br/>
         <a href="https://igor-alex-castro.github.io/projeto-trybetunes/"><img width=200px src="./imagens/tela-de-login.png" alt="Visualização do prejeto" /></a>
       </td>  
     <td valign="top">
       <h3 align="left">Trybe Wallet</h3>
         <p><a href="https://igor-alex-castro.github.io/projeto-trybe-wallet/">GitHub Page</a>, <a href="https://github.com/Igor-Alex-Castro/projeto-trybe-wallet">Reposirotio</a></p>
         <p><a href="">Vídeo do projeto</a></p>
-      <p>React, Redux with Redux, thunk,</br>
+      <p>React with Redux, thunk,</br>
           Jest and RTL</p>
-        <a href="https://igor-alex-castro.github.io/projeto-trybe-wallet/"><img width=200px src="./imagens/foto-projeto-wallet.png" alt="Visualização do prejeto" /></a>
+        <a href="https://igor-alex-castro.github.io/projeto-trybe-wallet/"><img width=250px src="./imagens/foto-projeto-wallet.png" alt="Visualização do prejeto" /></a>
       </td>  
   </tr>  
 </table>
