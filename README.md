@@ -40,10 +40,12 @@
         <p>React, Jest and RTL</p>
         <a href="https://igor-alex-castro.github.io/projeto-trybetunes/"><img width=200px src="./imagens/tela-de-login.png" alt="Visualização do prejeto" /></a>
       </td>  
-        <h3 align="left">Trybe Wallet</h3>
+    <td valign="top">
+      <h3 align="left">Trybe Wallet</h3>
         <p><a href="https://igor-alex-castro.github.io/projeto-trybe-wallet/">GitHub Page</a>, <a href="https://github.com/Igor-Alex-Castro/projeto-trybe-wallet">Reposirotio</a></p>
         <p><a href="">Vídeo do projeto</a></p>
-        <p>React, Redux with Redux, thunk, Jest and RTL</p>
+      <p>React, Redux with Redux, thunk,</br>
+          Jest and RTL</p>
         <a href="https://igor-alex-castro.github.io/projeto-trybe-wallet/"><img width=200px src="./imagens/foto-projeto-wallet.png" alt="Visualização do prejeto" /></a>
       </td>  
   </tr>  
