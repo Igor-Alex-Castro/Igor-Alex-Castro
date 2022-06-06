@@ -34,16 +34,14 @@
 </div>
   <h3 align="left">Projetos</h3>
 <table>
-  
-  <tr>
-        <td valign="top">
+  <tr> 
+    <td valign="top">
         <h3 align="left">Morada do Saber</h3>
         <p><a href="https://igor-alex-castro.github.io/morada-do-saber/">GitHub Page</a>, <a href="https://github.com/Igor-Alex-Castro/morada-do-saber">Reposirotio</a></p>
         <p><a href="">Vídeo do projeto</a></p>
         <p>HTML, CSS e JS</p>
        <br/>
-        <a href="https://igor-alex-castro.github.io/morada-do-saber/"><img width=00px src="./imagens/morada-do-saber.png" alt="Visualização do prejeto" /></a>
-          
+        <a href="https://igor-alex-castro.github.io/morada-do-saber/"><img width=260px src="./imagens/morada-saber-2.png" alt="Visualização do prejeto" /></a><br/>
       </td>  
      <td valign="top">
         <h3 align="left">Trybe Tunes</h3>
