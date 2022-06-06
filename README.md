@@ -1,6 +1,6 @@
 ## Oi, eu sou Igor Alex de Castro!!! 👋
 - 🕹️ Atualmente estou cursando engenharia da computação na UNISAL.
-- ❤️ Estudando e aprofundando no desenvolvimento Front-end.
+- ❤️ Estudando e aprofundando no desenvolvimento Front-end!
 
 <div>
   <a href="https://github.com/Igor-Alex-Castro">
