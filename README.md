@@ -37,7 +37,7 @@
   <tr> 
     <td valign="top">
         <h3 align="left">Morada do Saber</h3>
-        <p><a href="https://igor-alex-castro.github.io/morada-do-saber/">GitHub Page</a>, <a href="https://github.com/Igor-Alex-Castro/morada-do-saber">Reposirotio</a></p>
+        <p><a href="https://igor-alex-castro.github.io/morada-do-saber/">GitHub Page</a>,<br/> <a href="https://github.com/Igor-Alex-Castro/morada-do-saber">Repositorio</a></p>
         <p><a href="">Vídeo do projeto</a></p>
         <p>HTML, CSS e JS</p>
        <br/>
@@ -45,7 +45,7 @@
       </td>  
      <td valign="top">
         <h3 align="left">Trybe Tunes</h3>
-        <p><a href="https://igor-alex-castro.github.io/projeto-trybetunes/">GitHub Page</a>, <a href="https://github.com/Igor-Alex-Castro/projeto-trybetunes">Reposirotio</a></p>
+        <p><a href="https://igor-alex-castro.github.io/projeto-trybetunes/">GitHub Page</a>, <a href="https://github.com/Igor-Alex-Castro/projeto-trybetunes">Repositorio</a></p>
         <p><a href="https://www.youtube.com/watch?v=0IP06bzmUB8">Vídeo do projeto</a></p>
         <p>React, Jest e RTL</p>
        <br/>
@@ -53,8 +53,8 @@
       </td>  
     <td valign="top">
       <h3 align="left">Trybe Wallet</h3>
-        <p><a href="https://igor-alex-castro.github.io/projeto-trybe-wallet/">GitHub Page</a>, <a href="https://github.com/Igor-Alex-Castro/projeto-trybe-wallet">Reposirotio</a></p>
-        <p><a href="">Vídeo do projeto</a></p>
+      <p><a href="https://igor-alex-castro.github.io/projeto-trybe-wallet/">GitHub Page</a>,</br> <a href="https://github.com/Igor-Alex-Castro/projeto-trybe-wallet">Repositorio</a></p>
+        <p><a href="https://youtu.be/6ojTcbBf0cw">Vídeo do projeto</a></p>
       <p>React com Redux, thunk,</br>
           Jest e RTL</p>
         <a href="https://igor-alex-castro.github.io/projeto-trybe-wallet/"><img width=220px src="./imagens/foto-projeto-wallet.png" alt="Visualização do prejeto" /></a>
