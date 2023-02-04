@@ -1,10 +1,10 @@
 ## Oi, eu sou Igor Alex de Castro!!! 👋
-- 🕹️ Formado engenharia da computação na UNISAL.
--    Iniciando estudos em tecnólogo em desenvolvimento back-end na Anhanguera/Unopar
-- ❤️ HTML/CSS/JS -> Front-end
--    JSP/JDBC/SERVLETS/JAVA - Back-end
--    PL/SQL Oracle e Postgressql
--   
+- Formado engenharia da computação na UNISAL.
+- Iniciando estudos em tecnólogo em desenvolvimento back-end na Anhanguera/Unopar
+- HTML/CSS/JS -> Front-end
+- JSP/JDBC/SERVLETS/JAVA - Back-end
+- PL/SQL Oracle e Postgressql - Banco de dados
+  
 
 <div>
   <a href="https://github.com/Igor-Alex-Castro">
