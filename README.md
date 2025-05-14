@@ -2,7 +2,7 @@
 Sou formado em Engenharia de Computação e estou sempre em busca de aprimorar meus conhecimentos por meio de cursos extracurriculares voltados ao desenvolvimento técnico. Sou uma pessoa flexível, criativa e motivada a transformar ideias em soluções práticas, com foco constante no aprendizado e na evolução profissional. Possuo conhecimentos em desenvolvimento web com HTML, CSS e Bootstrap, lógica de programação, controle de versão com Git e GitHub, além de experiência em banco de dados com PL/SQL Oracle. No desenvolvimento backend, tenho domínio de Java e tecnologias associadas como JDBC, JSP, JPA/Hibernate e Spring Boot.
 ## Principais projetos:
  
-  - **Cadastro usuário:** https://github.com/Igor-Alex-Castro/cadastro-usuario. </br>
+  - **Cadastro usuário:** https://github.com/Igor-Alex-Castro/cadastro-usuario </br>
   - **JPA/HIBERNATE:** https://github.com/Igor-Alex-Castro/pos-java-maven-hibernate
 <div>
   <a href="https://github.com/Igor-Alex-Castro">
