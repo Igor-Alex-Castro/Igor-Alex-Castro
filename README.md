@@ -1,9 +1,17 @@
 ## Oi, eu sou Igor Alex de Castro!!! 👋
-Sou formado em Engenharia de Computação e estou sempre em busca de aprimorar meus conhecimentos por meio de cursos extracurriculares voltados ao desenvolvimento técnico. Sou uma pessoa flexível, criativa e motivada a transformar ideias em soluções práticas, com foco constante no aprendizado e na evolução profissional. Possuo conhecimentos em desenvolvimento web com HTML, CSS e Bootstrap, lógica de programação, controle de versão com Git e GitHub, além de experiência em banco de dados com PL/SQL Oracle. No desenvolvimento backend, tenho domínio de Java e tecnologias associadas como JDBC, JSP, JPA/Hibernate e Spring Boot.
+Sou Desenvolvedor Backend Java com experiência em sustentação, evolução e construção de sistemas corporativos, atuando em todas as etapas do ciclo de desenvolvimento. Possuo sólida vivência com Java, Spring Framework, JPA e Hibernate, aplicando boas práticas de POO, arquitetura MVC e versionamento com Git.
+
+Tenho experiência em desenvolvimento e integração de APIs RESTful, assim como em modelagem e manipulação de dados por meio de SQL e PL/SQL em bancos Oracle e PostgreSQL, criando rotinas e scripts que deram suporte a projetos críticos de migração e manutenção de sistemas legados.
+
+Participei de iniciativas que exigiram atenção à escalabilidade, manutenibilidade e preservação das regras de negócio, contribuindo para a estabilidade de sistemas em produção. Além disso, utilizo ferramentas como Maven, Git e Postman no dia a dia, sempre com foco em qualidade, organização e eficiência.
+
+Ao longo da carreira, desenvolvi competências interpessoais que me permitem atuar de forma colaborativa em equipes ágeis, destacando-me pela proatividade, organização e boa comunicação técnica.
 ## Principais projetos:
  
   - **Cadastro usuário:** https://github.com/Igor-Alex-Castro/cadastro-usuario </br>
-  - **JPA/HIBERNATE:** https://github.com/Igor-Alex-Castro/pos-java-maven-hibernate
+  - **Estoque**: https://github.com/Igor-Alex-Castro/estoque </br>
+  - **Dionario_jdbc**: https://github.com/Igor-Alex-Castro/dionario_jdbc
+  - **Dionario:** https://github.com/Igor-Alex-Castro/dionario
 <div>
   <a href="https://github.com/Igor-Alex-Castro">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Igor-Alex-Castro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
